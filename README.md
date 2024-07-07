@@ -1,2 +1,2 @@
 # js-dev-environment
-Java script development environment from vinod
+Java script development environment
