@@ -7,3 +7,5 @@ Java script development environment
 3. Array and collection enhancement
 4. Asynchronous programming
 5. Advanced Techniques
+##### ref: firtman.github.io/projs
+1. Brenden Eich created JavaScript in 1995
