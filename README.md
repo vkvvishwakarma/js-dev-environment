@@ -38,3 +38,15 @@ Class Person{
 }
 this block will get execute only once when the class get intantiated.
 ```
+
+##### we can regular expression in JavaSript as below
+```
+const text = 'cchckkk 2004-04-20'
+const reguleEx= /\b(\d{4})-(\d{2})-(\d{2})\b/g;
+for(const [fullDaye , year , month, date] of reguleEx){
+    console.log($fullDaye);
+    console.log($year +"-"+ $month + "-" + $date)
+
+    }
+```
+
