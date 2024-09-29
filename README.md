@@ -24,3 +24,16 @@ Java script development environment
     }
 }
 ```
+##### Its also supports static variable and static method and static block
+```
+Class Person{
+    static{
+...
+...
+    }
+    static age = 24;
+    static listAll(){
+
+    }
+}
+this block will get execute only once when the class get intantiated.
