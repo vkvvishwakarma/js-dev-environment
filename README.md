@@ -13,3 +13,5 @@ Java script development environment
 3. ES3 was released on 1999
 4. ES5 was released on 2009
 5. ES6 started in 2015
+##### how define private field in java Script
+``` we use # as prefix for private variable or private methods while declaring the variable or function within the class```
