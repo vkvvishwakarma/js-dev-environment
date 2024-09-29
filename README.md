@@ -15,3 +15,11 @@ Java script development environment
 5. ES6 started in 2015
 ##### how define private field in java Script
 ``` we use # as prefix for private variable or private methods while declaring the variable or function within the class```
+##### for example: 
+``` class MyDeclarationProperties(){
+    this.#FirstName = "vlaue of first name
+    #continateFirstnameAndLastName(){
+        this.#FullName = this.#firstName +this.#seconName;
+    }
+}
+```
